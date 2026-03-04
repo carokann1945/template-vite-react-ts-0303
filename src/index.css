@@ -1,7 +1,5 @@
-@import 'tailwindcss';
-
-/* 1. 구글 웹폰트 불러오기 */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600&display=swap');
+@import 'tailwindcss';
 
 /* 3. 로컬 폰트 정의 (Pretendard) */
 @font-face {
